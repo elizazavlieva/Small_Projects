@@ -15,10 +15,10 @@ The goal of the game is for players to position their marks so that they make a 
 
 **To run the game follow steps given below:**
 
-1.Clone this repository<br>
-2.Make sure you have Tkinter and Pillow installed in your system<br>
-3.Select the directory quiz_game_tk and open.<br>
-4.Run<br>
+1. Clone this repository<br>
+2. Make sure you have Tkinter and Pillow installed in your system<br>
+3. Select the directory quiz_game_tk and open.<br>
+4. Run<br>
 
 tic_tac_toe.py
 
